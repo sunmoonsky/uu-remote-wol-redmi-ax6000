@@ -13,6 +13,13 @@
 - 一台华硕小电脑 PN51，Windows 系统，接网线
 - 手机上装两个 App：UU 主机加速器、UU 远程，两个 App 用同一个账号登录
 
+## 用到的两个原项目，地址在这里
+
+- 迁移工具：[coolhpj/uu-remote-wol-router-helper](https://github.com/coolhpj/uu-remote-wol-router-helper)
+- 老插件种子：[edwardvon/uuplugin-redmi-ax6000](https://github.com/edwardvon/uuplugin-redmi-ax6000)
+
+这两个项目的东西不在这个仓库里，要自己去上面这两个地址下载，详细说明在 `UPSTREAM.md` 里。
+
 ## 先把电脑设置好
 
 电脑要能被远程开机，得先满足这几点，缺一个都不行：

@@ -4,6 +4,7 @@
 
 ## 1. coolhpj/uu-remote-wol-router-helper
 
+- 地址：https://github.com/coolhpj/uu-remote-wol-router-helper
 - 作者：coolhpj
 - 许可证：MIT（以原项目为准）
 - 版本：v0.1.0-beta.2（2026-10-26 实测时用的版本）
@@ -15,6 +16,7 @@
 
 ## 2. edwardvon/uuplugin-redmi-ax6000
 
+- 地址：https://github.com/edwardvon/uuplugin-redmi-ax6000
 - 作者：edwardvon
 - 许可证：以原项目为准（原项目未明确标出开源许可证时，按原项目声明处理，不要擅自改许可证）
 - 版本：2023 年从小米 AX6000 抓包的网易 UU 插件，manifest 4.0.2、uu.conf v2.7.2
