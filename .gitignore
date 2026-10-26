@@ -1,0 +1,8 @@
+# 本地临时产物，不要进仓库
+*.tar.gz
+/tmp/
+uu-wol-helper-stage/
+*.log
+*.pid
+# 私人信息一律不要提交：WiFi 名、UU 账号、MAC、IP、备份目录
+backups/
